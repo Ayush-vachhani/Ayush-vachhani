@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**Ayush-vachhani/Ayush-vachhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ayush P Vachhani, a passionate developer who loves to explore the vast world of technology. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+- **Python** 🐍
+- **Node.js** 🟢
+- **Rust** 🦀
+- **JavaScript (JS)** 🟨
+- **TypeScript (TS)** 🔷
+- **HTML5** 🌐
+- **CSS3** 🎨
+
+### Frameworks & Libraries:
+- **Django** 🌿
+- **Flask** 🍶
+- **PyTorch** 🔥
+- **SvelteKit** ⚡
+
+### Specializations:
+- **Backend Development** 🖥️
+- **Machine Learning** 🤖
+- **Deep Learning** 🧠
+- **Web Development** 🌍
+  
+## 🌱 Current Learning Goals
+- Diving into the realms of **Machine Learning** and **Deep Learning** 🌌
+
+## ⚽ Hobbies & Interests
+
+I love playing football! Being on the field not only keeps me active but also reminds me of the importance of teamwork, strategy, and perseverance.
+
+## 🤝 Let's Connect!
+
+Feel free to reach out to me for collaborations, projects, or just a chat. I'm always open to making new connections and learning from others!
