@@ -10,14 +10,14 @@
 - **HTML5** 🌐
 - **CSS3** 🎨
 
-### Specializations:
-- **Machine Learning** 🤖
-- **Deep Learning** 🧠
+### Specializations:🤖
+- **Machine Learning**
+- **Deep Learning** 
 - **Backend Development** 🖥️
   - **ASP .NET CORE** 
   - **Django**
 - **Web Development** 🌍
-  - **SvelteKit** ⚡
+  - **SvelteKit** 
   - **Blazor**
 - **Desktop Development** 🖥️
   - **MAUI** 🏝️
