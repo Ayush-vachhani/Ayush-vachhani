@@ -1,6 +1,7 @@
-Hello there! 👋
-I'm Ayush P Vachhani, a passionate developer who loves to explore the vast world of technology. 🚀
+# Hello there! 👋
+## I'm Ayush P Vachhani, a passionate developer who loves to explore the vast world of technology. 🚀
 
+### Languages:
 - **Python** 🐍
 - **C#** 💻
 - **Rust** 🦀
@@ -9,8 +10,8 @@ I'm Ayush P Vachhani, a passionate developer who loves to explore the vast world
 - **HTML5** 🌐
 - **CSS3** 🎨
 
+### Specializations:
 - **Backend Development** 🖥️
-  - **Django** 🌿
   - **C#** 💻
 - **Machine Learning** 🤖
 - **Deep Learning** 🧠
@@ -19,3 +20,11 @@ I'm Ayush P Vachhani, a passionate developer who loves to explore the vast world
   - **Blazor**
 - **Desktop Development** 🖥️
   - **MAUI** 🏝️
+
+### Hobbies & Interests:
+- ⚽ Playing football
+- 📚 Reading tech news
+- 🎮 Video gaming
+
+### Let's Connect!
+- 🤝 Feel free to reach out for collaborations or just a chat!
