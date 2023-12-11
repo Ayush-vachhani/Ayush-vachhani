@@ -11,10 +11,11 @@
 - **CSS3** 🎨
 
 ### Specializations:
-- **Backend Development** 🖥️
-  - **C#** 💻
 - **Machine Learning** 🤖
 - **Deep Learning** 🧠
+- **Backend Development** 🖥️
+  - **ASP .NET CORE** 
+  - **Django**
 - **Web Development** 🌍
   - **SvelteKit** ⚡
   - **Blazor**
