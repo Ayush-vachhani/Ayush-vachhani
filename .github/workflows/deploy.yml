@@ -1,0 +1,30 @@
+name: Deploy to GitHub Pages
+
+on:
+    push:
+        branches:
+            - main  # or your default branch
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Set up Bun
+              uses: oven-sh/bun-action@v1
+
+            - name: Install dependencies
+              run: bun install
+
+            - name: Build the Svelte app
+              run: bun run build  # Make sure your package.json has a "build" script
+
+            - name: Deploy to GitHub Pages
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                  branch: main  # Branch to deploy to
+                  folder: build     # Folder containing your built app
+                  token: ${{ secrets.GITHUB_TOKEN }}

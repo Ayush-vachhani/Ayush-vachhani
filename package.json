@@ -42,5 +42,8 @@
 		"@chromatic-com/storybook": "^3.2.2",
 		"@storybook/test": "^8.4.2",
 		"@storybook/addon-interactions": "^8.4.2"
+	},
+	"dependencies": {
+		"@sveltejs/adapter-static": "^3.0.6"
 	}
 }
